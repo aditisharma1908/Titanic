@@ -1,2 +1,2 @@
 # Titanic
-Predict that how many people save in tsunami from the list of all passenger
+Predict that how many people saved from tsunami on the given list of passenger.
